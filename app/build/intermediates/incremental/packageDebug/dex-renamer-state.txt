@@ -1,0 +1,7 @@
+#Tue Feb 21 15:17:57 IST 2017
+base.0=/home/pritesh/AndroidStudioProjects/Prodology/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_86e077a171f2eb31c18545bd3147c5d87dec3707
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/pritesh/AndroidStudioProjects/Prodology/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5abc22dc17ae01a4a2161e2d820610bde612cc24/classes.dex
+base.1=/home/pritesh/AndroidStudioProjects/Prodology/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5abc22dc17ae01a4a2161e2d820610bde612cc24
+file.0=/home/pritesh/AndroidStudioProjects/Prodology/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_86e077a171f2eb31c18545bd3147c5d87dec3707/classes.dex
