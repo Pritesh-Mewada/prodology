@@ -5,8 +5,8 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="10480510763441"
-    token="-7741495347767327336"
+    timestamp="10506283512375"
+    token="-6213054906696876378"
     verifier="COMPATIBLE" >
 
     <task
@@ -23,21 +23,28 @@
         duration="0" />
 
     <artifact
-        location="/home/pritesh/AndroidStudioProjects/Prodology/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+        location="C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
         type="RESOURCES" />
 
     <build
-        timestamp="9884075997177"
+        timestamp="10155885405333"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/home/pritesh/AndroidStudioProjects/Prodology/app/build/outputs/apk/app-debug.apk"
+            location="C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="10480510763441"
+        timestamp="10460666285038"
         verifier="COMPATIBLE" >
         <artifact
-            location="/home/pritesh/AndroidStudioProjects/Prodology/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            location="C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\builds\debug\10460666285038\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="10506283512375"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
             type="RESOURCES" />
     </build>
 

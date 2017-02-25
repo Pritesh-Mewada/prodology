@@ -29,6 +29,7 @@
             android:name="com.prodology.hackathon.prodology.SlidingTab"
             android:label="@string/title_activity_sliding_tab"
             android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name="com.prodology.hackathon.prodology.Event1" />
     </application>
 
 </manifest>

@@ -1,8 +1,14 @@
 package com.prodology.hackathon.prodology;
 
+import android.content.Intent;
+import android.graphics.Bitmap;
+import android.graphics.BitmapFactory;
 import android.os.Bundle;
+import android.support.design.widget.CollapsingToolbarLayout;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
+import android.support.v4.content.ContextCompat;
+import android.support.v7.graphics.Palette;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.view.View;
@@ -52,6 +58,11 @@ public class MainActivity extends AppCompatActivity
         recyclerView.setLayoutManager(new LinearLayoutManager(getApplicationContext()));
 
 
+        CollapsingToolbarLayout collapsingToolbarLayout = (CollapsingToolbarLayout)findViewById(R.id.toolbar_layout);
+        collapsingToolbarLayout.setContentScrimColor(getResources().getColor(R.color.colorPrimaryDark));
+        collapsingToolbarLayout.setContentScrimColor(getResources().getColor(R.color.colorPrimary));
+        collapsingToolbarLayout.setStatusBarScrimColor(getResources().getColor(R.color.colorPrimaryDark));
+
 
 
 
@@ -98,11 +109,17 @@ public class MainActivity extends AppCompatActivity
 
         if (id == R.id.nav_camera) {
             // Handle the camera action
-        } else if (id == R.id.nav_gallery) {
+            Intent int1 = new Intent(MainActivity.this,Event1.class);
+            startActivity(int1);
+        } else if (id == R.id.nav_gallery)
+        {
 
-        } else if (id == R.id.nav_slideshow) {
+        } else if (id == R.id.nav_slideshow)
+        {
 
-        } else if (id == R.id.nav_manage) {
+        }
+        else if (id == R.id.nav_manage)
+        {
 
         }
 

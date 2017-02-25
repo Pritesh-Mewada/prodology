@@ -12,8 +12,8 @@ import android.widget.TextView;
  */
 
 public class RecylerViewAdapter extends RecyclerView.Adapter<RecylerViewAdapter.ViewHolder> {
-    int []tileImageId={R.drawable.ic_menu_share,R.drawable.ic_menu_slideshow,R.drawable.ic_menu_share,R.drawable.ic_menu_slideshow};
-    int []mainImageId={R.drawable.ic_menu_camera,R.drawable.ic_menu_gallery,R.drawable.ic_menu_send,R.drawable.ic_menu_manage};
+    int []tileImageId={R.drawable.a,R.drawable.b,R.drawable.c,R.drawable.d};
+    int []mainImageId={R.drawable.image,R.drawable.image1,R.drawable.image,R.drawable.image1};
     String [] tileString={"A","B","C","D"};
 
     public class ViewHolder extends RecyclerView.ViewHolder{

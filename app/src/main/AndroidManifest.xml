@@ -22,6 +22,8 @@
             android:name=".SlidingTab"
             android:label="@string/title_activity_sliding_tab"
             android:theme="@style/AppTheme.NoActionBar"></activity>
+
+        <activity android:name=".Event1"></activity>
     </application>
 
 </manifest>

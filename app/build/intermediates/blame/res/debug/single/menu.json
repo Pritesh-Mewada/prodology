@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/home/pritesh/AndroidStudioProjects/Prodology/app/build/intermediates/res/merged/debug/menu/main.xml",
-        "source": "/home/pritesh/AndroidStudioProjects/Prodology/app/src/main/res/menu/main.xml"
+        "merged": "C:\\Users\\gadhvi\\AndroidStudioProjects\\prodology16\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "C:\\Users\\gadhvi\\AndroidStudioProjects\\prodology16\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
     },
     {
-        "merged": "/home/pritesh/AndroidStudioProjects/Prodology/app/build/intermediates/res/merged/debug/menu/activity_main_drawer.xml",
-        "source": "/home/pritesh/AndroidStudioProjects/Prodology/app/src/main/res/menu/activity_main_drawer.xml"
+        "merged": "C:\\Users\\gadhvi\\AndroidStudioProjects\\prodology16\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\gadhvi\\AndroidStudioProjects\\prodology16\\app\\src\\main\\res\\menu\\main.xml"
     }
 ]
