@@ -16,25 +16,14 @@ public class RecylerViewAdapter extends RecyclerView.Adapter<RecylerViewAdapter.
     int []mainImageId={R.drawable.image,R.drawable.image1,R.drawable.image,R.drawable.image1};
     String [] tileString={"A","B","C","D"};
 
-    public class ViewHolder extends RecyclerView.ViewHolder{
-        TextView tileTitle;
-        ImageView tileImage;
-        ImageView mainImage;
-
-        public ViewHolder(View itemView) {
-            super(itemView);
-            //give elements of cardview
-            tileImage = (ImageView) itemView.findViewById(R.id.tileImage);
-            mainImage = (ImageView) itemView.findViewById(R.id.mainImage);
-            tileTitle = (TextView)itemView.findViewById(R.id.tileTitle);
-        }
-    }
     @Override
     public RecylerViewAdapter.ViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
-        View v =(View) LayoutInflater.from(parent.getContext()).inflate(R.layout.cardview,parent,false);
+        View v = LayoutInflater.from(parent.getContext()).inflate(R.layout.cardview, parent, false);
         ViewHolder vh = new ViewHolder(v);
+
         return vh;
     }
+
     @Override
     public void onBindViewHolder(RecylerViewAdapter.ViewHolder holder, int position) {
         //bind elements
@@ -44,9 +33,24 @@ public class RecylerViewAdapter extends RecyclerView.Adapter<RecylerViewAdapter.
 
 
     }
+
     @Override
     public int getItemCount() {
         return 4;
+    }
+
+    public class ViewHolder extends RecyclerView.ViewHolder {
+        TextView tileTitle;
+        ImageView tileImage;
+        ImageView mainImage;
+
+        public ViewHolder(View itemView) {
+            super(itemView);
+            //give elements of cardview
+            tileImage = (ImageView) itemView.findViewById(R.id.tileImage);
+            mainImage = (ImageView) itemView.findViewById(R.id.mainImage);
+            tileTitle = (TextView) itemView.findViewById(R.id.tileTitle);
+        }
     }
 
 

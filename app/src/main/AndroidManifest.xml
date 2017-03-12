@@ -24,6 +24,7 @@
             android:theme="@style/AppTheme.NoActionBar"></activity>
 
         <activity android:name=".Event1"></activity>
+        <activity android:name=".Event3"></activity>
     </application>
 
 </manifest>

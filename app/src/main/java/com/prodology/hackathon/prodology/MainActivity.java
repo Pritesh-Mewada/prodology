@@ -1,25 +1,21 @@
 package com.prodology.hackathon.prodology;
 
 import android.content.Intent;
-import android.graphics.Bitmap;
-import android.graphics.BitmapFactory;
 import android.os.Bundle;
 import android.support.design.widget.CollapsingToolbarLayout;
 import android.support.design.widget.FloatingActionButton;
-import android.support.design.widget.Snackbar;
-import android.support.v4.content.ContextCompat;
-import android.support.v7.graphics.Palette;
-import android.support.v7.widget.LinearLayoutManager;
-import android.support.v7.widget.RecyclerView;
-import android.view.View;
 import android.support.design.widget.NavigationView;
+import android.support.design.widget.Snackbar;
 import android.support.v4.view.GravityCompat;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarDrawerToggle;
 import android.support.v7.app.AppCompatActivity;
+import android.support.v7.widget.LinearLayoutManager;
+import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
 
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
@@ -52,17 +48,17 @@ public class MainActivity extends AppCompatActivity
         RecyclerView recyclerView = (RecyclerView)findViewById(R.id.recyleData);
 
 
+
         RecylerViewAdapter recylerViewAdapter = new RecylerViewAdapter();
 
         recyclerView.setAdapter(recylerViewAdapter);
         recyclerView.setLayoutManager(new LinearLayoutManager(getApplicationContext()));
 
 
-        CollapsingToolbarLayout collapsingToolbarLayout = (CollapsingToolbarLayout)findViewById(R.id.toolbar_layout);
+        CollapsingToolbarLayout collapsingToolbarLayout = (CollapsingToolbarLayout) findViewById(R.id.toolbar_layout);
         collapsingToolbarLayout.setContentScrimColor(getResources().getColor(R.color.colorPrimaryDark));
         collapsingToolbarLayout.setContentScrimColor(getResources().getColor(R.color.colorPrimary));
         collapsingToolbarLayout.setStatusBarScrimColor(getResources().getColor(R.color.colorPrimaryDark));
-
 
 
 
@@ -116,7 +112,8 @@ public class MainActivity extends AppCompatActivity
 
         } else if (id == R.id.nav_slideshow)
         {
-
+            Intent int1 = new Intent(MainActivity.this, Event3.class);
+            startActivity(int1);
         }
         else if (id == R.id.nav_manage)
         {

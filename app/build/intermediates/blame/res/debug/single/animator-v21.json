@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\Gadhvi\\AndroidStudioProjects\\prodology\\app\\build\\intermediates\\res\\merged\\debug\\animator-v21\\design_appbar_state_list_animator.xml",
+        "source": "C:\\Users\\Gadhvi\\.android\\build-cache\\f573bc27d6849ba29a0b1c2975b17b178522f167\\output\\res\\animator-v21\\design_appbar_state_list_animator.xml"
+    },
+    {
         "merged": "C:\\Users\\gadhvi\\AndroidStudioProjects\\prodology16\\app\\build\\intermediates\\res\\merged\\debug\\animator-v21\\design_appbar_state_list_animator.xml",
         "source": "C:\\Users\\gadhvi\\AndroidStudioProjects\\prodology16\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\animator-v21\\design_appbar_state_list_animator.xml"
     }

@@ -1,94 +1,98 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\src\main\AndroidManifest.xml:2:1-29:12
+ADDED from C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\src\main\AndroidManifest.xml:2:1-30:12
 	package
-		ADDED from C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\src\main\AndroidManifest.xml:3:5-48
-		INJECTED from C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\src\main\AndroidManifest.xml:3:5-48
+		INJECTED from C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\src\main\AndroidManifest.xml
 application
-ADDED from C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\src\main\AndroidManifest.xml:5:5-27:19
-MERGED from [com.android.support:design:25.1.0] C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:transition:25.1.0] C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:25.1.0] C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:cardview-v7:25.1.0] C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.1.0\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:palette-v7:25.1.0] C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\exploded-aar\com.android.support\palette-v7\25.1.0\AndroidManifest.xml:22:5-23:19
-MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:25.1.0] C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:25:5-20
+ADDED from C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\src\main\AndroidManifest.xml:5:5-28:19
+MERGED from [com.android.support:design:25.2.0] C:\Users\Gadhvi\.android\build-cache\f573bc27d6849ba29a0b1c2975b17b178522f167\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\Gadhvi\.android\build-cache\581e3ac406fc3522e089a9a329313a912c336bcc\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\Gadhvi\.android\build-cache\a365ba303e2081dcd1387e812418e35ef3497c3d\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\Gadhvi\.android\build-cache\a57aa9d2623dfd90a40492a28a467be6d305a167\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.2.0] C:\Users\Gadhvi\.android\build-cache\a2aeb27cb7bc1b74fd991e298633f9c26cae0961\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Gadhvi\.android\build-cache\f7ca272af2369fac5e8cd386e6df393d303622eb\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Gadhvi\.android\build-cache\49b3f8316e56a08a1d1558b32f072c3490e34d0c\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Gadhvi\.android\build-cache\59d36d02b18582a14a7a5dfcecfa3b1badcc0916\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:cardview-v7:25.2.0] C:\Users\Gadhvi\.android\build-cache\8a56e102d76a0175bda5924b6c1c7e386d525ba9\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Gadhvi\.android\build-cache\34c21359fdc31800b8c43210184091b8e12b9c01\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\Gadhvi\.android\build-cache\86904c69b70df861a69c7d62b91acc17488657ee\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Gadhvi\.android\build-cache\27aa70931a00a28e355a101a660332ffe5d20e50\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Gadhvi\.android\build-cache\a60d4c9379de5c43f135dbbc2c5527e6ece2d40f\output\AndroidManifest.xml:25:5-20
 	android:label
-		ADDED from C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\src\main\AndroidManifest.xml:8:9-41
 	android:supportsRtl
-		ADDED from C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\src\main\AndroidManifest.xml:9:9-35
+		ADDED from C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\src\main\AndroidManifest.xml:9:9-35
 	android:allowBackup
-		ADDED from C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\src\main\AndroidManifest.xml:6:9-35
 	android:icon
-		ADDED from C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\src\main\AndroidManifest.xml:7:9-43
 	android:theme
-		ADDED from C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\src\main\AndroidManifest.xml:10:9-40
+		ADDED from C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\src\main\AndroidManifest.xml:10:9-40
 activity#com.prodology.hackathon.prodology.MainActivity
-ADDED from C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\src\main\AndroidManifest.xml:11:9-20:20
+ADDED from C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\src\main\AndroidManifest.xml:11:9-20:20
 	android:label
-		ADDED from C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\src\main\AndroidManifest.xml:13:13-45
+		ADDED from C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\src\main\AndroidManifest.xml:13:13-45
 	android:theme
-		ADDED from C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\src\main\AndroidManifest.xml:14:13-56
+		ADDED from C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\src\main\AndroidManifest.xml:14:13-56
 	android:name
-		ADDED from C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\src\main\AndroidManifest.xml:12:13-41
+		ADDED from C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\src\main\AndroidManifest.xml:12:13-41
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\src\main\AndroidManifest.xml:15:13-19:29
+ADDED from C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\src\main\AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\src\main\AndroidManifest.xml:16:17-69
+ADDED from C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\src\main\AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\src\main\AndroidManifest.xml:16:25-66
+		ADDED from C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\src\main\AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\src\main\AndroidManifest.xml:18:17-77
+ADDED from C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\src\main\AndroidManifest.xml:18:17-77
 	android:name
-		ADDED from C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\src\main\AndroidManifest.xml:18:27-74
+		ADDED from C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\src\main\AndroidManifest.xml:18:27-74
 activity#com.prodology.hackathon.prodology.SlidingTab
-ADDED from C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\src\main\AndroidManifest.xml:21:9-24:68
+ADDED from C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\src\main\AndroidManifest.xml:21:9-24:68
 	android:label
-		ADDED from C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\src\main\AndroidManifest.xml:23:13-63
+		ADDED from C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\src\main\AndroidManifest.xml:23:13-63
 	android:theme
-		ADDED from C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\src\main\AndroidManifest.xml:24:13-56
+		ADDED from C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\src\main\AndroidManifest.xml:24:13-56
 	android:name
-		ADDED from C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\src\main\AndroidManifest.xml:22:13-39
+		ADDED from C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\src\main\AndroidManifest.xml:22:13-39
 activity#com.prodology.hackathon.prodology.Event1
-ADDED from C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\src\main\AndroidManifest.xml:26:9-53
+ADDED from C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\src\main\AndroidManifest.xml:26:9-53
 	android:name
-		ADDED from C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\src\main\AndroidManifest.xml:26:19-41
+		ADDED from C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\src\main\AndroidManifest.xml:26:19-41
+activity#com.prodology.hackathon.prodology.Event3
+ADDED from C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\src\main\AndroidManifest.xml:27:9-53
+	android:name
+		ADDED from C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\src\main\AndroidManifest.xml:27:19-41
 uses-sdk
-INJECTED from C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:design:25.1.0] C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:transition:25.1.0] C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:25.1.0] C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:cardview-v7:25.1.0] C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.1.0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:25.1.0] C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:palette-v7:25.1.0] C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\exploded-aar\com.android.support\palette-v7\25.1.0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.1.0] C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.2.0] C:\Users\Gadhvi\.android\build-cache\f573bc27d6849ba29a0b1c2975b17b178522f167\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\Gadhvi\.android\build-cache\581e3ac406fc3522e089a9a329313a912c336bcc\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\Gadhvi\.android\build-cache\a365ba303e2081dcd1387e812418e35ef3497c3d\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\Gadhvi\.android\build-cache\a57aa9d2623dfd90a40492a28a467be6d305a167\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:transition:25.2.0] C:\Users\Gadhvi\.android\build-cache\a2aeb27cb7bc1b74fd991e298633f9c26cae0961\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Gadhvi\.android\build-cache\f7ca272af2369fac5e8cd386e6df393d303622eb\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Gadhvi\.android\build-cache\49b3f8316e56a08a1d1558b32f072c3490e34d0c\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Gadhvi\.android\build-cache\59d36d02b18582a14a7a5dfcecfa3b1badcc0916\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:cardview-v7:25.2.0] C:\Users\Gadhvi\.android\build-cache\8a56e102d76a0175bda5924b6c1c7e386d525ba9\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\Gadhvi\.android\build-cache\147f2998b2e442d15e20ade03d69f7211d7e561f\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Gadhvi\.android\build-cache\34c21359fdc31800b8c43210184091b8e12b9c01\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\Gadhvi\.android\build-cache\86904c69b70df861a69c7d62b91acc17488657ee\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Gadhvi\.android\build-cache\27aa70931a00a28e355a101a660332ffe5d20e50\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Gadhvi\.android\build-cache\a60d4c9379de5c43f135dbbc2c5527e6ece2d40f\output\AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:25.1.0] C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:25.2.0] C:\Users\Gadhvi\.android\build-cache\f573bc27d6849ba29a0b1c2975b17b178522f167\output\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\src\main\AndroidManifest.xml

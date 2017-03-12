@@ -25,6 +25,7 @@ public class Event1 extends AppCompatActivity {
         actionBar.setDisplayHomeAsUpEnabled(true);
         setTitle("Event-1");
 
+
         ListView lvItems = (ListView) findViewById(R.id.l1);
         ExpandableAdapter adapter = getAdapter();
 
@@ -36,12 +37,7 @@ public class Event1 extends AppCompatActivity {
 
                 Item item = (Item) adapter.getItem(position);
                 if (item != null) {
-                    if (item.isExpanded) {
-                        item.isExpanded = false;
-
-                    } else {
-                        item.isExpanded = true;
-                    }
+                    item.isExpanded = !item.isExpanded;
                 }
 
                 adapter.notifyDataSetChanged();
@@ -75,6 +71,7 @@ public class Event1 extends AppCompatActivity {
 
 
         return new ExpandableAdapter(this, items);
+
 
     }
 

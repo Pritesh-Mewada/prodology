@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\Gadhvi\\AndroidStudioProjects\\prodology\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Gadhvi\\AndroidStudioProjects\\prodology\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\Users\\gadhvi\\AndroidStudioProjects\\prodology16\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
         "source": "C:\\Users\\gadhvi\\AndroidStudioProjects\\prodology16\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     }

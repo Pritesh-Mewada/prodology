@@ -3,156 +3,174 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="C:\Users\Gadhvi\.android\build-cache\86904c69b70df861a69c7d62b91acc17488657ee\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="cb50ecf0e5b286cfd2102616bd5ad26e7726f929">
-        <dex dex="C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4c0871add925afc62bc4ee78f135f51b4ee479d7\classes.dex" />
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fca666a54862b5fe29f74d1403a141cdf60cb6c8\classes.dex" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\Gadhvi\.android\build-cache\27aa70931a00a28e355a101a660332ffe5d20e50\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\build\intermediates\pre-dexed\debug\classes_b6158f25012237384c8ae155a2fc581b87930fba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gadhvi\.android\build-cache\581e3ac406fc3522e089a9a329313a912c336bcc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\build\intermediates\pre-dexed\debug\classes_d291e969429938502e3da67710ffc5c915775fd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gadhvi\.android\build-cache\a2aeb27cb7bc1b74fd991e298633f9c26cae0961\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\build\intermediates\pre-dexed\debug\classes_efdbec31b712bbfa3d47d68514940e78df91bd61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gadhvi\.android\build-cache\f7ca272af2369fac5e8cd386e6df393d303622eb\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_86129f66fc14ffe81e996015062e83abb7d674ff\classes.dex" />
+        <dex dex="C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\build\intermediates\pre-dexed\debug\classes_e12d088d130d81f677aadb8b3bc20ea8a19cb81e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gadhvi\.android\build-cache\147f2998b2e442d15e20ade03d69f7211d7e561f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\build\intermediates\pre-dexed\debug\classes_231d779c392461c745ee7471311baa4e4284d732.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gadhvi\.android\build-cache\a60d4c9379de5c43f135dbbc2c5527e6ece2d40f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\build\intermediates\pre-dexed\debug\classes_683d9701a0aac447a5b35abdf280536f03e1ccf7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gadhvi\.android\build-cache\86904c69b70df861a69c7d62b91acc17488657ee\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\build\intermediates\pre-dexed\debug\classes_fca666a54862b5fe29f74d1403a141cdf60cb6c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gadhvi\.android\build-cache\a57aa9d2623dfd90a40492a28a467be6d305a167\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\build\intermediates\pre-dexed\debug\classes_eb0611bda63f2a77b8ddd4f521a272d17b8f9b66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gadhvi\.android\build-cache\59d36d02b18582a14a7a5dfcecfa3b1badcc0916\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\build\intermediates\pre-dexed\debug\classes_9df979c4e8eada98070c398a4c2bc85cf1a747ff.jar" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\jars\classes.jar"
+        jar="C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
-        <dex dex="C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.1.0_b37ba0d646312aea97ac9baf844a27f4fdea4958\classes.dex" />
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_42cc6962227020f105b344854da5831cd6d8efcb\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gadhvi\.android\build-cache\a365ba303e2081dcd1387e812418e35ef3497c3d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\build\intermediates\pre-dexed\debug\classes_e052f2d3dada008a65f060f43f3ba281f0ed7849.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gadhvi\.android\build-cache\f573bc27d6849ba29a0b1c2975b17b178522f167\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\build\intermediates\pre-dexed\debug\classes_3217bb64904ff87931bb8eb8e6db363afdbcf9eb.jar" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jar="C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
-        <dex dex="C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_8ea7a7a8d72558d0f83dfd370c05ceec07711bdb\classes.dex" />
+        sha1="d7b6834611714efabcd6a91e113fb018d5e24628">
+        <dex dex="C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3ff42d5a2910662426b74055645d0e0338c4ded3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gadhvi\.android\build-cache\49b3f8316e56a08a1d1558b32f072c3490e34d0c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\build\intermediates\pre-dexed\debug\classes_d54b818da60b7107d3f0662deb08e1107c28b7d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gadhvi\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_b4e5013a4242ecf6ddc9e6d6ff00b9d6531b5d65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gadhvi\.android\build-cache\34c21359fdc31800b8c43210184091b8e12b9c01\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\build\intermediates\pre-dexed\debug\classes_c2810d89b34e293e4c5f5ce98013fbe10bbc0b05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gadhvi\.android\build-cache\8a56e102d76a0175bda5924b6c1c7e386d525ba9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30a4938ea5235ccf532b3e9f04200e68547e36ad">
+        <dex dex="C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\build\intermediates\pre-dexed\debug\classes_c0d55b19d6c604e5f61601928dfe9d77271569e8.jar" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\exploded-aar\com.android.support\palette-v7\25.1.0\jars\classes.jar"
+        jar="C:\Users\Gadhvi\.android\build-cache\8a56e102d76a0175bda5924b6c1c7e386d525ba9\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="6f68018b5ddc2493f5e5cecc5601c05d0539281a">
-        <dex dex="C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-25.1.0_34fa28a810702566fe57e56e3d304ddac295fa14\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
-        <dex dex="C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_764302867201f26b253e404e11e108a06d8dfbae\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
-        <dex dex="C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_38c4862936ee05040e2c5512b231993028e4c8bc\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\gadhvi\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
-        <dex dex="C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_806dbc65085add8713c84686cbc83e03a744042a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
-        <dex dex="C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.0_c5d295d81a8baa37fc923b154e0fc5423378561e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="75177ea6f02d9ba5f72531fb8a6db9e657207e68">
-        <dex dex="C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_165305f7d3a08b86da4a19f3dba30c8886df568a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
-        <dex dex="C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_3ab715032c19db77362dc2195720f7724b6c4a3d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="aee64634871d88a419d59eb743c1258a60f19700">
-        <dex dex="C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_0171419f6c1c625d2e6d02f69efb09f30e514fc4\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
-        <dex dex="C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.1.0_083a0864bb14297f3ba10e3a294654bb7a7078d0\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
-        <dex dex="C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_aefe2c6628f6b0fbde5e45c8a2f0ca9d937f1743\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
-        <dex dex="C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_96ec85099c100ed34b0ef787546d96d92d4a31bc\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
-        <dex dex="C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.1.0_c84e439283ca499b0bb0b2bd27b70e3d1b211598\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
-        <dex dex="C:\Users\gadhvi\AndroidStudioProjects\prodology16\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_1bb7abfb3cf9e1dd1d68e3d1e819b5b0b0a047e7\classes.dex" />
+        sha1="30a4938ea5235ccf532b3e9f04200e68547e36ad">
+        <dex dex="C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c0d55b19d6c604e5f61601928dfe9d77271569e8\classes.dex" />
     </item>
 
 </items>
