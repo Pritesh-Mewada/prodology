@@ -2,13 +2,13 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="C:\Users\Gadhvi\.android\build-cache\86904c69b70df861a69c7d62b91acc17488657ee\output\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\Gadhvi\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
-        <dex dex="C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fca666a54862b5fe29f74d1403a141cdf60cb6c8\classes.dex" />
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_b54644b59df4f0dd06bff91f7af13af7238f9467.jar" />
     </item>
     <item
         is-multidex="false"
@@ -84,21 +84,21 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\Gadhvi\.android\build-cache\0854a8fe07fe5ddfa42ef88c6ebb59b33c162d16\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\build\intermediates\pre-dexed\debug\classes_78efeb4d494842d4671da9d7ff79e1db9806218b.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\Gadhvi\.android\build-cache\59d36d02b18582a14a7a5dfcecfa3b1badcc0916\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
         <dex dex="C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\build\intermediates\pre-dexed\debug\classes_9df979c4e8eada98070c398a4c2bc85cf1a747ff.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
-        <dex dex="C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_42cc6962227020f105b344854da5831cd6d8efcb\classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -117,15 +117,6 @@
         revision="25.0.2"
         sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
         <dex dex="C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\build\intermediates\pre-dexed\debug\classes_3217bb64904ff87931bb8eb8e6db363afdbcf9eb.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7b6834611714efabcd6a91e113fb018d5e24628">
-        <dex dex="C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3ff42d5a2910662426b74055645d0e0338c4ded3\classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -162,15 +153,6 @@
         revision="25.0.2"
         sha1="30a4938ea5235ccf532b3e9f04200e68547e36ad">
         <dex dex="C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\build\intermediates\pre-dexed\debug\classes_c0d55b19d6c604e5f61601928dfe9d77271569e8.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Gadhvi\.android\build-cache\8a56e102d76a0175bda5924b6c1c7e386d525ba9\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="30a4938ea5235ccf532b3e9f04200e68547e36ad">
-        <dex dex="C:\Users\Gadhvi\AndroidStudioProjects\prodology\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c0d55b19d6c604e5f61601928dfe9d77271569e8\classes.dex" />
     </item>
 
 </items>

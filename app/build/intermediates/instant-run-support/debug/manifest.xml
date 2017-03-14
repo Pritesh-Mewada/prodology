@@ -17,6 +17,13 @@
         <activity
             android:name="com.prodology.hackathon.prodology.MainActivity"
             android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name="com.prodology.hackathon.prodology.Splash"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -27,9 +34,17 @@
         <activity
             android:name="com.prodology.hackathon.prodology.SlidingTab"
             android:label="@string/title_activity_sliding_tab"
+            android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name="com.prodology.hackathon.prodology.Event1" />
-        <activity android:name="com.prodology.hackathon.prodology.Event3" />
+        <activity android:name="com.prodology.hackathon.prodology.Event1" >
+            android:screenOrientation="portrait"
+        </activity>
+        <activity android:name="com.prodology.hackathon.prodology.Event3" >
+            android:screenOrientation="portrait"
+        </activity>
+        <activity android:name="com.prodology.hackathon.prodology.Event4" >
+            android:screenOrientation="portrait"
+        </activity>
 
         <service
             android:name="com.android.tools.fd.runtime.InstantRunService"

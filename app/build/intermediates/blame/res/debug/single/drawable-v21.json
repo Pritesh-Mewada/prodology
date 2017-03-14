@@ -160,6 +160,10 @@
         "source": "C:\\Users\\gadhvi\\AndroidStudioProjects\\prodology16\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\drawable-v21\\avd_show_password.xml"
     },
     {
+        "merged": "C:\\Users\\Gadhvi\\AndroidStudioProjects\\prodology\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\splash.jpg",
+        "source": "C:\\Users\\Gadhvi\\AndroidStudioProjects\\prodology\\app\\src\\main\\res\\drawable-v21\\splash.jpg"
+    },
+    {
         "merged": "C:\\Users\\gadhvi\\AndroidStudioProjects\\prodology16\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\c.png",
         "source": "C:\\Users\\gadhvi\\AndroidStudioProjects\\prodology16\\app\\src\\main\\res\\drawable-v21\\c.png"
     },

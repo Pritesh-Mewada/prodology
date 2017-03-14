@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
+                Snackbar.make(view, "Welcome to Prodology Hackathon", Snackbar.LENGTH_LONG)
                         .setAction("Action", null).show();
             }
         });
@@ -109,6 +109,8 @@ public class MainActivity extends AppCompatActivity
             startActivity(int1);
         } else if (id == R.id.nav_gallery)
         {
+            Intent int1 = new Intent(MainActivity.this, SlidingTab.class);
+            startActivity(int1);
 
         } else if (id == R.id.nav_slideshow)
         {
@@ -117,6 +119,8 @@ public class MainActivity extends AppCompatActivity
         }
         else if (id == R.id.nav_manage)
         {
+            Intent int1 = new Intent(MainActivity.this, Event4.class);
+            startActivity(int1);
 
         }
 

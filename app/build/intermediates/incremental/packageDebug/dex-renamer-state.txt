@@ -1,7 +1,4 @@
-#Sun Mar 12 14:47:22 IST 2017
-base.0=C\:\\Users\\Gadhvi\\AndroidStudioProjects\\prodology\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3ff42d5a2910662426b74055645d0e0338c4ded3
-renamed.1=classes2.dex
+#Tue Mar 14 21:55:49 IST 2017
+base.0=C\:\\Users\\Gadhvi\\AndroidStudioProjects\\prodology\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
-file.1=C\:\\Users\\Gadhvi\\AndroidStudioProjects\\prodology\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_42cc6962227020f105b344854da5831cd6d8efcb\\classes.dex
-base.1=C\:\\Users\\Gadhvi\\AndroidStudioProjects\\prodology\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_42cc6962227020f105b344854da5831cd6d8efcb
-file.0=C\:\\Users\\Gadhvi\\AndroidStudioProjects\\prodology\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3ff42d5a2910662426b74055645d0e0338c4ded3\\classes.dex
+file.0=C\:\\Users\\Gadhvi\\AndroidStudioProjects\\prodology\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
